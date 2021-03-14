@@ -1,0 +1,56 @@
+<aside>
+	<header>
+        <div class="grid grid-2">
+          <a class="item info" href="/">
+            <div class="item-content">
+              <img src="/assets/images/logo.png" alt="neobrutal" class="image" style="width:100%">
+            </div>
+          </a>
+          {% if site.portfolio %}
+          <a class="item info small" href="/" target="_blank">
+            <div class="item-content">
+              <i class="fas fa-file"></i>
+            </div>
+          </a>
+          {% endif %}
+          {% if site.linkedin %}
+          <a class="item info small" target="_blank" href="http://linkedin.com/in/{{ site.linkedin }}">
+            <div class="item-content">
+              <i class="fab fa-linkedin"></i>
+            </div>  
+          </a>
+          {% endif %}
+          {% if site.youtube %}
+          <a class="item info small" target="_blank" href="https://youtube.com/user/{{ site.youtube }}">
+            <div class="item-content">
+              <i class="fab fa-youtube-square"></i>
+            </div>
+          </a>
+          {% endif %}
+          {% if site.github-url %}
+          <a class="item info small" target="_blank" href="http://github.com/{{ site.github-url }}">
+            <div class="item-content">
+              <i class="fab fa-github-square"></i>
+            </div>
+          </a>
+          {% endif %}
+          {% if site.instagram %}
+          <a class="item info small" target="_blank" href="http://instagram.com/{{ site.instagram }}">
+            <div class="item-content">
+              <i class="fab fa-instagram-square"></i>
+            </div>
+          </a>
+          {% endif %}
+          {% if site.email %}
+          <a class="item info small"target="_blank"  href="mailto:{{ site.email }}">
+            <div class="item-content">
+              <i class="fas fa-envelope-square"></i></i>
+            </div>
+          </a>
+          {% endif %}
+        </div>
+        <div class="grid subtitle">
+          Architecture // Computational Design // Digital Fabrication // Robotics
+        </div>
+      </header>
+</header>

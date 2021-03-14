@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+    <main>
+      <article>{{ content }}</article>
+      {% include footer.html %}
+    </main>
+    <!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/web-animations/2.3.2/web-animations.min.js'></script>
+  <script src="{{ base.url | prepend: site.url }}/assets/js/muuri.min.js"></script>
+  <script src="{{ base.url | prepend: site.url }}/assets/js/script.js"></script>
+  </body>
+</html>

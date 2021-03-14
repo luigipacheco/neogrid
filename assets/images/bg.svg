@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="bg.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="4.34"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <g
+     opacity=".301"
+     id="g6"
+     style="fill:#666666">
+    <path
+       d="M 96.000004,94.999997 H 100 v 1 h -3.999996 v 4 h -1 v -4 h -9 v 4 h -1 v -4 h -9 v 4 h -1 v -4 h -9 v 4 h -1 v -4 h -9 v 4 h -1 v -4 H 46 v 4 h -1 v -4 h -9 v 4 h -1 v -4 h -9 v 4 h -1 v -4 h -9 v 4 h -1 v -4 H 0 v -1 h 15 v -9 H 0 v -1 h 15 v -9 H 0 v -1 H 15 V 66 H 0 V 65 H 15 V 56 H 0 V 55 H 15 V 46 H 0 V 45 H 15 V 36 H 0 V 35 H 15 V 26 H 0 V 25 H 15 V 16 H 0 V 15 H 15 V 0 h 1 v 15 h 9 V 0 h 1 v 15 h 9 V 0 h 1 v 15 h 9 V 0 h 1 v 15 h 9.000004 V 0 h 1 v 15 h 9 V 0 h 1 v 15 h 9 V 0 h 1 v 15 h 9 V 0 h 1 v 15 h 9 V 0 h 1 V 15 H 100 v 1 h -3.999996 v 9 H 100 v 1 h -3.999996 v 9 H 100 v 1 h -3.999996 v 9 H 100 v 1 h -3.999996 v 9 H 100 v 1 h -3.999996 v 9 H 100 v 1 h -3.999996 v 8.999997 H 100 v 1 h -3.999996 v 9 H 100 v 1 h -3.999996 z m -1,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 H 46 v 9 z m -10.000004,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -9,-10 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9.000004 v -9 H 46 Z m 10.000004,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 9,-10 V 66 h -9 v 8.999997 z m -10,0 V 66 h -9 v 8.999997 z m -10,0 V 66 h -9 v 8.999997 z m -10,0 V 66 h -9 v 8.999997 z m -10,0 V 66 H 46 v 8.999997 z M 45,74.999997 V 66 h -9 v 8.999997 z m -10,0 V 66 h -9 v 8.999997 z m -10,0 V 66 h -9 v 8.999997 z M 16,65 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9.000004 V 56 H 46 Z m 10.000004,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 9,-10 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 V 46 H 46 v 9 z M 45,55 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z M 16,45 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9.000004 V 36 H 46 Z m 10.000004,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 9,-10 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 V 26 H 46 v 9 z M 45,35 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z m -10,0 v -9 h -9 v 9 z M 16,25 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9.000004 V 16 H 46 Z m 10.000004,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z m 10,0 h 9 v -9 h -9 z"
+       opacity=".5"
+       id="path2"
+       style="opacity:0.3;fill:#666666" />
+    <path
+       d="M6 5V0H5v5H0v1h5v94h1V6h94V5z"
+       id="path4"
+       style="fill:#999999;opacity:0.5" />
+  </g>
+</svg>
