@@ -1,32 +1,22 @@
 ---
 layout: post
-title:  "NFT 8^3.w0rld.001"
+title:  "8Cubed worlds"
 date:   2021-03-09 18:54:32 -0500
 image: assets/images/fulls/1.jpg
 thumbnail: assets/images/thumbnails/w001thumb.png
-caption: NFT 8^3.w0rld.001
-categories: jekyll update
+caption: 8Cubed worlds
+categories: design
+permalink: /8x8x8worlds
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+8 cubed is a collection of animated tiny 8x8x8 voxel worlds. This is an experiment to understand and test the NFT's and how to interact with some platforms and marketplaces.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+### World 001 Construction Site
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![8x8x8 World #1](/assets/images/w001.gif)
 
-Jekyll also offers powerful support for code snippets:
+### Comments
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Gas fees (gwei) seem to be too expensive and volatile.
+This site [RARIBLE TOOLS](https://tools.gravityenterprises.co.za/#/Cost) seems to be the best way to predict them if posting on rarible(they are very dinamic). Also check the differences from ERC 721 and ERC 1155. Seems like the later will be a better standard for the future.
+ 

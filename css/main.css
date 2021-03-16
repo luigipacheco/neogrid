@@ -13,7 +13,7 @@
   }
   .item {
     position: absolute;
-    margin: 5px;
+    margin: 10px;
     z-index: 1;
     display : block;
     height: 233px;
@@ -76,7 +76,7 @@
     font-family: Ubuntu,"Fira Sans", Helvetica, Arial, sans-serif;
     font-size: 18px;
     line-height: 1.5;
-    margin: 0 20px;
+    margin: 15px;
     background:#111213;
     color: #c9c9c9;
     background-image: url(/assets/images/bg.svg);
@@ -85,7 +85,7 @@
   }
   .subtitle{
     font-size: 12px;
-    margin: 5px;
+    margin: 15px;
   }
   .container > header h2 {
       display: block;
@@ -155,6 +155,8 @@
   } 
   .footer{
     font-size: 10px;
+    margin: 15px;
+
   }
   .title{
     border: 1px dashed rgb(99, 99, 99);
