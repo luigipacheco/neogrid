@@ -7,26 +7,22 @@ thumbnail: assets/images/thumbnails/chessthumb.png
 caption: Chessmen
 categories: digital design
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Chess set inspired by Brutalist Architecture 
 
-Jekyll requires blog post files to be named according to the following format:
+![Neobrutal Chessset](/assets/images/nbc1.png)
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Brutalism is an modernist architectural style,  featuring minimalistic but memorable design that promotes the use of raw materials, mainly concrete.  This project aims to bring back the same aesthetic on a chess set that  would be appealing to architects, designers and other creative minds that like to play chess.  
+ 
+ ![Neobrutal Chessset](/assets/images/nbc2.png)
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Neobrutal chess is a simple design that will  look great on a studio, living room, office etc.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<div class="sketchfab-embed-wrapper">
+    <iframe title="NEOBRUTAL chess set" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/133e3c749063499ba171826be308ab1f/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/neobrutal-chess-set-133e3c749063499ba171826be308ab1f?utm_medium=embed&utm_campaign=share-popup&utm_content=133e3c749063499ba171826be308ab1f" target="_blank" style="font-weight: bold; color: #1CAAD9;">NEOBRUTAL chess set</a>
+        by <a href="https://sketchfab.com/luigipacheco?utm_medium=embed&utm_campaign=share-popup&utm_content=133e3c749063499ba171826be308ab1f" target="_blank" style="font-weight: bold; color: #1CAAD9;">luigipacheco</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=133e3c749063499ba171826be308ab1f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>

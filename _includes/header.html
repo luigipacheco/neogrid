@@ -13,6 +13,13 @@
             </div>
           </a>
           {% endif %}
+          {% if site.instagram %}
+          <a class="item info small" target="_blank" href="http://instagram.com/{{ site.instagram }}">
+            <div class="item-content">
+              <i class="fab fa-instagram-square"></i>
+            </div>
+          </a>
+          {% endif %}
           {% if site.linkedin %}
           <a class="item info small" target="_blank" href="http://linkedin.com/in/{{ site.linkedin }}">
             <div class="item-content">
@@ -31,13 +38,6 @@
           <a class="item info small" target="_blank" href="http://github.com/{{ site.github-url }}">
             <div class="item-content">
               <i class="fab fa-github-square"></i>
-            </div>
-          </a>
-          {% endif %}
-          {% if site.instagram %}
-          <a class="item info small" target="_blank" href="http://instagram.com/{{ site.instagram }}">
-            <div class="item-content">
-              <i class="fab fa-instagram-square"></i>
             </div>
           </a>
           {% endif %}

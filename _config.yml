@@ -55,13 +55,13 @@ plugins:
 #   - vendor/ruby/
 
 email:              neobrutal.studio@gmail.com
-twitter:            luigipaal
-facebook:           luigipach
+twitter:            neobrutal1
+#facebook:          luigipach
 github-url:         luigipacheco
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           luis-arturo-pacheco-16970a71
 #xing:              username
-instagram:          luigi_pacheco
+instagram:          neobrutalstudio
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -78,4 +78,4 @@ youtube:           luigipach
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-portfolio:          neobrutal
+#portfolio:         www.neobrutal.com
