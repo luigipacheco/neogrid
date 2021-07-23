@@ -14,8 +14,8 @@ var grid1 = new Muuri('.grid-1', {
   
   // When all items have loaded refresh their
   // dimensions and layout the grid.
-  window.addEventListener('load', function () {
-    grid1.refreshItems().layout();
+   window.addEventListener('load', function () {
+     grid1.refreshItems().layout();
     // For a little finishing touch, let's fade in
     // the images after all them have loaded and
     // they are corrertly positioned.
