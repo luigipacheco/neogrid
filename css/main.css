@@ -1,12 +1,12 @@
 .grid {
     position: relative;
     opacity: 1;
-    transition: opacity 0.2s linear 1s;
+    transition: opacity 0.2s linear 0.2s;
   }
   .grid-1{
     position: relative;
-    opacity: 0;
-    transition: opacity 0.2s linear 1s;
+    opacity: 0.25;
+    transition: opacity 0.2s linear 0.2s;
   }
   .images-loaded .grid {
     opacity: 1;
