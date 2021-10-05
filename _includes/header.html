@@ -41,10 +41,17 @@
             </div>
           </a>
           {% endif %}
+          {% if site.twitter %}
+          <a class="item info small"target="_blank"  href="http://github.com/{{ site.twitter }}">
+            <div class="item-content">
+              <i class="fab fa-twitter-square"></i></i>
+            </div>
+          </a>
+          {% endif %}
           {% if site.email %}
           <a class="item info small"target="_blank"  href="mailto:{{ site.email }}">
             <div class="item-content">
-              <i class="fas fa-envelope-square"></i></i>
+              <i class="fab fa-envelope-square"></i></i>
             </div>
           </a>
           {% endif %}
