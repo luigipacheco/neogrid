@@ -16,8 +16,8 @@ The first chapter's goal is to understand the basics of Blender's interface for 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLci9ZcluzNLoRcoZGMugT3x0n0r2vrYMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Chapter 2 Materializing with math
+### Chapter 2 Surfaces and Math
 
-Second chapter focuses materializing with math (Inspired by Joseph Choma Book) and deals with describing, creating and modifying geometry with mathematical formulas in Python. Understand the difference between NURBS and MESH modeling and how to use them in Blender's Sverchok addon.
+Second chapter focuses in making surfaces with math (Inspired by Joseph Choma Book) and deals with describing, creating and modifying geometry with mathematical formulas in Python. Understand the difference between NURBS and MESH modeling and how to use them in Blender's Sverchok addon.
 
 ### Chapter 3 TBA
