@@ -50,6 +50,7 @@
     border-style: dashed;
     border: #bbbbbb;
     border-width: 1px;
+    cursor: crosshair;
   }
   .item-content > img {
     display: block;
