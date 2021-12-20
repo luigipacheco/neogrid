@@ -3,7 +3,7 @@ layout: post
 title:  "Neo Dune"
 date:   2021-03-09 18:54:32 -0500
 image: assets/images/fulls/1.jpg
-thumbnail: /assets/images/thumbnails/lord.png
+thumbnail: assets/images/thumbnails/lord.png
 caption: NeoDune
 categories: design
 ---

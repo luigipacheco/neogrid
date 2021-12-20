@@ -3,7 +3,7 @@ layout: post
 title:  "Generative Dots"
 date:   2021-10-21 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
-thumbnail: /assets/images/thumbnails/gendots.png
+thumbnail: assets/images/thumbnails/gendots.png
 caption: Computational Design
 categories: design
 ---

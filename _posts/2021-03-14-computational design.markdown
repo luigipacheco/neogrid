@@ -3,7 +3,7 @@ layout: post
 title:  "Computational Design"
 date:   2021-06-06 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
-thumbnail: /assets/images/thumbnails/lorenz3.jpg
+thumbnail: assets/images/thumbnails/lorenz3.jpg
 caption: Computational Design
 categories: design
 ---
