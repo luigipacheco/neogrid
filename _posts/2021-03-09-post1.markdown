@@ -7,7 +7,8 @@ thumbnail: assets/images/thumbnails/webthumb.png
 caption: Website
 categories: design
 ---
-No need to explain , first project is this simple website. Feel free to look arround.
+No need to explain , this website is made with Jekyll. Template is available for free.  Feel free to look arround.
 
-If you want to use this a template for your jekyll site, its available at : 
+If you want to use this a template for your jekyll site, its available at :  https://github.com/luigipacheco/neogrid
+
 

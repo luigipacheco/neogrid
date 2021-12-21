@@ -2,10 +2,11 @@
 layout: post
 title: "KUKA creative robot fabrication"
 date: 2020-01-23
-excerpt: "First workshop with Karl Singline in Mexico"
-tags: [robots , kuka prc, rhino, grasshopper, digital fabrication]
-feature: http://i.imgur.com/Ds6S7lJ.png
-comments: false
+caption: KUKA//PRC Workshop
+project: true
+tags: [Makermex , robotics , education ]
+thumbnail: assets/images/thumbnails/laser.png
+categories: digifab
 ---
 
 ## Syllabus
