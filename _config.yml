@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Neobrutal
+title: Luis Pacheco
 description: >- # this means to ignore newlines until "baseurl:"
-  Computational design and digital manufacturing studio. 
+  Digital manufacturing and computational design
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://luigipacheco.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -52,13 +52,13 @@ plugins:
 #   - vendor/ruby/
 
 email:              neobrutal.studio@gmail.com
-twitter:            neobrutalstudio
-facebook:           neobrutalstudio
+twitter:            luigipaal
+#facebook:           luigipacheco
 github-url:         luigipacheco
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           company/neobrutal
+linkedin:           in/luis-arturo-pacheco-16970a71/
 #xing:              username
-instagram:          neobrutalstudio
+instagram:          luigi_pacheco
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
