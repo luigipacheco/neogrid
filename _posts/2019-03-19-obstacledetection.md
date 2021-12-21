@@ -23,7 +23,7 @@ This project was designed for a workshop in IAAC as part for  the Master in Robo
 - Grasshopper feedback and path generation.
 - Clay printing
 
-![Obstacle detection](/assets/img/obstacle.gif)    
+![Obstacle detection](/assets/images/obstacle.gif)    
 
 Learn more:
 

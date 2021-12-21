@@ -29,6 +29,6 @@ Andres is a software trainer and developer since the 1980s. He has developed app
 ### Luis Pacheco
 Luis Pacheco is a graduate architect from University of La Salle Bajío México with a master in Robotics and Advanced Construction from the Institute of Advanced Architecture of Catalonia (IAAC), co-founder of MakerMex first Mexican 3D printer manufacturing company and recognized as MIT's Innovators under 35 Mexico 2016.
 
-![Schedule](/assets/img/schedule.png)    
+![Schedule](/assets/images/schedule.png)    
 
 <a href="http://makermex.com/event/creative-robotics-workshop-2020-01-13-2020-01-18-96/register" class="btn btn-success">REGISTER</a>

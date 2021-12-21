@@ -9,7 +9,7 @@ thumbnail: assets/images/thumbnails/laser.png
 categories: digifab
 ---
 
-![AR- Laser projector](/assets/img/laserprojector.jpg)    
+![AR- Laser projector](/assets/images/laserprojector.jpg)    
 
 <center> Augumented Reality Laser Projector .</center>
 

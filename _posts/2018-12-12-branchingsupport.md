@@ -18,7 +18,7 @@ This project was designed for the third term in the Master in Robotics and Advan
 - Easy on site setup and mounting
 - Realtime data feedback from construction site to office
 
-![Growth Grasshopper algorithm](/assets/img/growth.png)    
+![Growth Grasshopper algorithm](/assets/images/growth.png)    
 
 Learn more:
 
