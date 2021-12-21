@@ -2,15 +2,11 @@
 layout: post
 title:  "Obstacle detection and path correction for real time 3D printing"
 date:   2018-03-18
-excerpt: "Obstacle detection and path correction for real time 3D printing"
+caption: Collision detection 3DP
 project: true
-tag:
-- iaac
-- grasshopper
-- arduino
-- 3D printer
-- KUKA
-comments: False
+tags: [IAAC , 3D printing ]
+thumbnail: assets/images/thumbnails/obstacle.png
+categories: digifab
 ---
 
 ## Obstacle dection and Path correction for KUKA real time 3D printing (IAAC student project)

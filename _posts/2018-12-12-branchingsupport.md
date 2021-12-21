@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Targeted branch growth algorithm"
+title:  "Generative Branching"
 date:   2017-12-12
-excerpt: "Growing support structures for 3D printing."
+caption: Generative Branching
 project: true
-tag:
-- iaac
-- grasshopper
-- python
-comments: False
+tags: [IAAC , Python, computational design ]
+thumbnail: assets/images/thumbnails/branch.png
+categories: computational-design
 ---
 
 ## TARGETED RANDOM BRANCH GROWTH ALGORITHM (IAAC student project)

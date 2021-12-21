@@ -2,11 +2,11 @@
 layout: post
 title:  "AR Laser Projector"
 date:   2018-04-06
-excerpt: "Project your data on the real world"
+caption: AR Laser Projector
 project: true
-tags: [iaac , arduino, augumented reality, laser, architecture]
-feature: http://i.imgur.com/Ds6S7lJ.png
-comments: false
+tags: [IAAC , physical computing ]
+thumbnail: assets/images/thumbnails/laser.png
+categories: digifab
 ---
 
 ![AR- Laser projector](/assets/img/laserprojector.jpg)    
