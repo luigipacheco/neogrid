@@ -5,7 +5,7 @@ date: 2020-01-23
 caption: KUKA//PRC Workshop
 project: true
 tags: [Makermex , robotics , education ]
-thumbnail: assets/images/thumbnails/laser.png
+thumbnail: assets/images/thumbnails/workshop.png
 categories: digifab
 ---
 

@@ -83,7 +83,7 @@
     margin-right: 5%;
     background:#111213;
     color: #c9c9c9;
-    background-image: url(/assets/images/bg.svg);
+    /* background-image: url(/assets/images/bg.svg); */
     background-size: 100px;
  ;
   }

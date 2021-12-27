@@ -5,10 +5,12 @@ date: 2020-07-25
 caption: Interview Karl Singline
 project: true
 tags: [Robotics]
-thumbnail: assets/images/thumbnails/karl.png
+thumbnail: assets/images/thumbnails/interview.png
 categories: digifab
 ---
 
-## Live Youtube video
+## Live Youtube interview vide
+
+Live conversation with Karl Singline about doing creative things with robots. 
 
 [Watch the interview with Karl](https://youtu.be/BAfmIMqmotM)

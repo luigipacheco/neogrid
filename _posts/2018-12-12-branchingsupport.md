@@ -14,7 +14,7 @@ categories: computational-design
 
 This project was designed for the first term in the Master in Robotics and Advanced Construction in IAAC, to explore an alternative to current support structures in 3D printing.
 
-- Developen in Python  for Grasshopper
+- Developed in Python  for Grasshopper
 - Three dimensional branching
 - Self-collition avoidance. 
 
