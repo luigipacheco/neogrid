@@ -15,7 +15,8 @@ categories: digifab
 
 ### Roles
 
-- Programming
+- Algorithm design
+- Programming 
 
 This project was designed for a workshop in IAAC as part for  the Master in Robotics and Advanced Construction in IAAC  it features:
 

@@ -12,14 +12,14 @@ categories: computational-design
 ## TARGETED RANDOM BRANCH GROWTH ALGORITHM (IAAC student project)
 
 
-This project was designed for the third term in the Master in Robotics and Advanced Construction in IAAC  it features:
+This project was designed for the first term in the Master in Robotics and Advanced Construction in IAAC, to explore an alternative to current support structures in 3D printing.
 
-- Self calibration Artificial Intelligence algorithm
-- Easy on site setup and mounting
-- Realtime data feedback from construction site to office
+- Developen in Python  for Grasshopper
+- Three dimensional branching
+- Self-collition avoidance. 
 
 ![Growth Grasshopper algorithm](/assets/images/growth.png)    
 
 Learn more:
 
-(IAAC BLOG)[http://www.iaacblog.com/programs/construction-robotic-assistant-future-for-robotic-collaborative-fabrication/]
+(IAAC BLOG)[https://www.iaacblog.com/programs/targeted-random-branch-growth-algorithm/]
