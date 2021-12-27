@@ -9,7 +9,7 @@ thumbnail: assets/images/thumbnails/karl.png
 categories: digifab
 ---
 
-## Live Youtube interview vide
+## Live Youtube interview video
 
 Live conversation with Karl Singline about doing creative things with robots. 
 
