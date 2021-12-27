@@ -5,7 +5,7 @@ date: 2020-07-25
 caption: Interview Karl Singline
 project: true
 tags: [Robotics]
-thumbnail: assets/images/thumbnails/interview.png
+thumbnail: assets/images/thumbnails/karl.png
 categories: digifab
 ---
 
