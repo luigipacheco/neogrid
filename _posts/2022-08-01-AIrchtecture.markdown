@@ -5,7 +5,7 @@ date:   2022-09-01 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
 thumbnail: assets/images/thumbnails/airchitecture.png
 caption: AI-RCHITECTURE
-categories: digifab
+categories: design
 ---
 
 Using different AI tools to sketch conceptualize architecture... and more... 

@@ -6,7 +6,7 @@ caption: Interview Karl Singline
 project: true
 tags: [Robotics]
 thumbnail: assets/images/thumbnails/karl.png
-categories: digifab
+categories: robotics
 ---
 
 ## Live Youtube interview video

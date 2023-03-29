@@ -200,3 +200,27 @@ img {
 time {
   margin-left: 10%;
 }
+.filter-buttons {
+  display: flex;
+  justify-content: flex-start; 
+  margin-bottom: 20px;
+}
+
+.filter-button {
+  background-color: #333;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 8px;
+  cursor: pointer;
+  padding: 12px 24px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.filter-button:hover {
+  background-color: #555;
+}

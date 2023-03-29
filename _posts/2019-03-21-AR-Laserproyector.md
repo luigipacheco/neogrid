@@ -6,7 +6,7 @@ caption: AR Laser Projector
 project: true
 tags: [IAAC , physical computing ]
 thumbnail: assets/images/thumbnails/laser.jpg
-categories: digifab
+categories: robotics
 ---
 
 ![AR- Laser projector](/assets/images/laserprojector.jpg)    

@@ -6,7 +6,7 @@ caption: Collision detection
 project: true
 tags: [IAAC , 3D printing ]
 thumbnail: assets/images/thumbnails/obstacle.png
-categories: digifab
+categories: robotics
 ---
 
 ## Obstacle dection and Path correction for KUKA real time 3D printing (IAAC student project)

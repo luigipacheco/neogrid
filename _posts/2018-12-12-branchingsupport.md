@@ -6,7 +6,7 @@ caption: Generative Branching
 project: true
 tags: [IAAC , Python, computational design ]
 thumbnail: assets/images/thumbnails/branch.png
-categories: computational-design
+categories: design
 ---
 
 ## TARGETED RANDOM BRANCH GROWTH ALGORITHM (IAAC student project)

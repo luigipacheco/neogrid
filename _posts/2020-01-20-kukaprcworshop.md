@@ -6,7 +6,7 @@ caption: KUKA//PRC Workshop
 project: true
 tags: [Makermex , robotics , education ]
 thumbnail: assets/images/thumbnails/workshop.png
-categories: digifab
+categories: robotics
 ---
 
 ## Syllabus
