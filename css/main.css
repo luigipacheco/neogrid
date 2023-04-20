@@ -81,7 +81,7 @@
     margin: 15px;
     margin-left: 5%;
     margin-right: 5%;
-    background:#111213;
+    background:#272324;
     color: #c9c9c9;
     /* background-image: url(/assets/images/bg.svg); */
     background-size: 100px;
@@ -207,7 +207,7 @@ time {
 }
 
 .filter-button {
-  background-color: #333;
+  background-color: #272324;
   border: dashed;
   color: #bbbbbb;
   text-align: center;
