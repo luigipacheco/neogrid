@@ -50,7 +50,6 @@
     border-style: dashed;
     border: #bbbbbb;
     border-width: 1px;
-    cursor: crosshair;
   }
   .item-content > img {
     display: block;
@@ -208,8 +207,10 @@ time {
 
 .filter-button {
   background-color: #272324;
-  border: dashed;
   color: #bbbbbb;
+  border-style: dashed;
+  border: #bbbbbb;
+  border-width: 1px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
