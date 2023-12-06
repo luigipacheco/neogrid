@@ -1,23 +1,35 @@
 ---
 layout: post
-title:  "Computational Design"
-date:   2021-06-06 18:54:32 -0500
+title: "Computational Design"
+date: 2021-06-06 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
 thumbnail: assets/images/thumbnails/lorenz3.jpg
-caption: Computational Design
+caption: "Diving Into the World of Computational Design"
 categories: design
 ---
 
-Series of you tube tutorials in computational design.
+In this blog post, I'm excited to share a series of YouTube tutorials focused on computational design. These tutorials are designed for beginners and enthusiasts alike, aiming to provide a comprehensive understanding of computational design using Blender, Sverchok, and Python.
 
-### Chapter 1 Introduction to computational design
+### Chapter 1: Introduction to Computational Design
 
-The first chapter's goal is to understand the basics of Blender's interface for computational design with Sverchok and Python. Understand the basic data structures to manipulate simple geometry and learn the basics of Python programming. Mostly the chapter deals with vertex and edge creation and Python basic programming.
+In the first chapter, we dive into the basics of Blender's interface, tailored for computational design applications. The goal is to get you acquainted with Sverchok and Python, focusing on:
+
+- Basic data structures and manipulation of simple geometry.
+- Understanding vertex and edge creation.
+- Getting started with Python programming, particularly in the context of computational design.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLci9ZcluzNLoRcoZGMugT3x0n0r2vrYMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Chapter 2 Surfaces and Math
+### Chapter 2: Surfaces and Mathematics
 
-Second chapter focuses in making surfaces with math (Inspired by Joseph Choma Book) and deals with describing, creating and modifying geometry with mathematical formulas in Python. Understand the difference between NURBS and MESH modeling and how to use them in Blender's Sverchok addon.
+The second chapter takes a more in-depth look at creating surfaces using mathematical concepts. Inspired by Joseph Choma's book, this chapter covers:
 
-### Chapter 3 TBA
+- Describing, creating, and modifying geometry through mathematical formulas in Python.
+- Understanding the differences between NURBS and MESH modeling.
+- Practical applications of these concepts using Blender's Sverchok addon.
+
+### Chapter 3: To Be Announced
+
+Stay tuned for the third chapter, where we will explore more advanced concepts and techniques in computational design.
+
+---

@@ -1,28 +1,20 @@
----
-layout: post
-title:  "Neobrutal Chessmen"
-date:   2021-03-09 18:54:32 -0500
-image: assets/images/fulls/1.jpg
-thumbnail: assets/images/thumbnails/chessthumb.png
-caption: Chessmen
-categories: design
----
-Chess set inspired by Brutalist Architecture 
+![Neobrutal Chessset](/assets/images/nbc2.png)
 
-![Neobrutal Chessset](/assets/images/nbc1.png)
+### Neobrutal Chess: A Crowdfunded Design Statement
 
-Brutalism is an modernist architectural style,  featuring minimalistic but memorable design that promotes the use of raw materials, mainly concrete.  This project aims to bring back the same aesthetic on a chess set that  would be appealing to architects, designers and other creative minds that like to play chess.  
- 
- ![Neobrutal Chessset](/assets/images/nbc2.png)
-
-Neobrutal chess is a simple design that will  look great on a studio, living room, office etc.
+The Neobrutal chess set features a simple yet striking design, making it an ideal decorative piece for a studio, living room, or office. It embodies the principles of Brutalism, focusing on materiality, texture, and a monolithic appearance. The creation of this unique chess set was made possible through the enthusiastic backing of supporters on Kickstarter.
 
 <div class="sketchfab-embed-wrapper">
-    <iframe title="NEOBRUTAL chess set" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/133e3c749063499ba171826be308ab1f/embed">
-    </iframe>
-   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-        <a href="https://sketchfab.com/3d-models/neobrutal-chess-set-133e3c749063499ba171826be308ab1f?utm_medium=embed&utm_campaign=share-popup&utm_content=133e3c749063499ba171826be308ab1f" target="_blank" style="font-weight: bold; color: #1CAAD9;">NEOBRUTAL chess set</a>
+    <iframe title="NEOBRUTAL chess set" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/133e3c749063499ba171826be308ab1f/embed"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/neobrutal-chess-set-133e3c749063499ba171826be308ab1f?utm_medium=embed&utm_campaign=share-popup&utm_content=133e3c749063499ba171826be308ab1f" target="_blank" style="font-weight: bold; color: #1CAAD9;">View the NEOBRUTAL chess set on Sketchfab</a>
         by <a href="https://sketchfab.com/luigipacheco?utm_medium=embed&utm_campaign=share-popup&utm_content=133e3c749063499ba171826be308ab1f" target="_blank" style="font-weight: bold; color: #1CAAD9;">luigipacheco</a>
         on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=133e3c749063499ba171826be308ab1f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+
+### Kickstarter Success and Future Plans
+
+I'm grateful for the support received through [our Kickstarter campaign](https://www.kickstarter.com/projects/neobrutal/make-100-neobrutal-chessmen). This support not only made the production of the Neobrutal Chessmen possible but also opened doors for future creative projects. For more details about the campaign and our journey, you can visit the [Kickstarter page](https://www.kickstarter.com/projects/neobrutal/make-100-neobrutal-chessmen).
+
+---
