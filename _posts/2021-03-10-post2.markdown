@@ -1,3 +1,14 @@
+---
+layout: post
+title: Neobrutal Chessmen
+image: assets/images/fulls/1.jpg
+thumbnail: assets/images/thumbnails/chessthumb.png
+caption: Brutalist Chessmen
+categories: digital design
+categories: design
+---
+Chess set inspired by Brutalist Architecture 
+
 ![Neobrutal Chessset](/assets/images/nbc2.png)
 
 ### Neobrutal Chess: A Crowdfunded Design Statement
