@@ -17,18 +17,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Luis Pacheco
+author: Luis Pacheco
 description: >- # this means to ignore newlines until "baseurl:"
   Digital manufacturing and computational design
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://luigipacheco.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://fabacademy.org/2024/labs/hopelab/students/luis-pacheco" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
 include:
  - _pages
+# Build settings
+
 plugins:
   - jekyll-feed
 
@@ -52,9 +51,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-email:              neobrutal.studio@gmail.com
+email:              luigipach@gmail.com
 twitter:            luigipaal
-#facebook:           luigipacheco
+#facebook:          luigipacheco
 github-url:         luigipacheco
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           luis-arturo-pacheco-16970a71
@@ -77,6 +76,7 @@ youtube:           luigipach
 #xmpp:              username@server.com
 #hackernews:        username
 portfolio:         www.luigipacheco.com
+
 
 markdown: kramdown
 # !github-pages! mandatory › https://help.github.com/articles/using-jekyll-with-pages/#configuration-settings-you-cannot-change
