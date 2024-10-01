@@ -22,7 +22,7 @@ author: Luis Pacheco
 description: >- # this means to ignore newlines until "baseurl:"
   Digital manufacturing and computational design
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fabacademy.org/2024/labs/hopelab/students/luis-pacheco" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://luigipacheco.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 include:
  - _pages
