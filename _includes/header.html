@@ -1,14 +1,19 @@
 <aside>
 	<header>
         <div class="grid grid-2">
-          <a class="item info" href="/">
+          <a class="item info logo" href="{{ '' | prepend: site.baseurl| prepend: site.url }}">
             <div class="item-content">
               <!-- <img src="assets/images/logo.png" alt="neobrutal" class="image" style="width:100%"> -->
               Luis Pacheco
             </div>
           </a>
+          <a class="item info small" href="{{ '/about' | prepend: site.baseurl| prepend: site.url }}" target="_blank">
+            <div class="item-content">
+              <i class="fas fa-info"></i>
+            </div>
+          </a>
           {% if site.portfolio %}
-          <a class="item info small" href="/assets/files/cv.pdf" target="_blank">
+          <a class="item info small" href="{{ '/assets/files/cv.pdf' | prepend: site.baseurl| prepend: site.url }}" target="_blank">
             <div class="item-content">
               <i class="fas fa-file"></i>
             </div>
@@ -43,7 +48,7 @@
           </a>
           {% endif %}
           {% if site.twitter %}
-          <a class="item info small"target="_blank"  href="http://github.com/{{ site.twitter }}">
+          <a class="item info small"target="_blank"  href="http://twitter.com/{{ site.twitter }}">
             <div class="item-content">
               <i class="fab fa-twitter-square"></i></i>
             </div>

@@ -1,3 +1,4 @@
+// need "independent file to avoid null problem"
 var grid2 = new Muuri('.grid-2', {
     dragEnabled: false,
     layout: {
