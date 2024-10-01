@@ -36,7 +36,7 @@
   height: 55px;
   width: 233px;
   line-height: 55px;
-  background: #FF4911;
+  background: #ffffff;
   box-shadow: 5px 5px rgb(0, 0, 0);
   }
   .small{
@@ -44,7 +44,7 @@
     height: 55px;
     width: 55px;
     line-height: 55px;
-    background: #61DB0D;
+    background: #ffffff;
     }
   .item.muuri-item-hidden {
     z-index: 0;
@@ -93,7 +93,7 @@
     margin: 15px;
     margin-left: 5%;
     margin-right: 5%;
-    background:#0DDBA5;
+    background:#ffffff;
     color: #000000;
     /* background-image: url(/assets/images/bg.svg); */
     background-size: 100px;
@@ -228,7 +228,7 @@ time {
 }
 
 .filter-button {
-  background-color: #DBD00D;
+  background-color: #ffffff;
   border: 2px solid #000000;
   border-radius: 5px;
   color: #000000;
