@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "NFT Experiments"
+date:   2021-03-09 18:54:32 -0500
+image: assets/images/fulls/1.jpg
+thumbnail: assets/images/thumbnails/w001thumb.png
+caption: Generative Mines
+categories: design
+---
+
+## NFT Experiments: 8x8x8 Animated Worlds and Generative Art
+
+### Role: Creator / Artist
+
+These NFT experiments merge generative modeling, digital art, and the blockchain. Each piece is part of a larger collection of unique, animated worlds with complex characters. These NFTs are released sequentially—new assets are created only after the previous one is sold, adding a layer of exclusivity and anticipation to the project.
+
+### World 001: Construction Site
+
+![8x8x8 World #1](/assets/images/w001.gif)
+
+"World 001: Construction Site" is a generative experiment using Blender's new Geometry Nodes, Blender's Python API, Sverchok, and Animation Nodes. The project explores procedural modeling techniques to generate surreal environments inhabited by unlucky characters. 
+
+### In the Block Mine #001
+
+![8x8x8 World #1](/assets/images/themine4ed.png)
+
+This piece draws inspiration from the unpredictability of mining in a digital landscape. Each asset is procedurally generated and serves as part of a larger narrative within the 8x8x8 universe.
+
+**Get the NFT:** [Rarible Link](https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:386885:0x5d2d11406e2cd45bfcd44cb2051708b51a00923f)
+
+### The Baron: Inspired by Dune
+
+As a fan of the Dune universe, I created a collection of NFTs that pay homage to characters from this iconic sci-fi saga, particularly inspired by Jodorowsky's unmade adaptation of Dune, and the artwork of [Moebius](https://www.heavymetal.com/news/moebius-concept-art-jodorowsky-dune-characters/) and [H.R. Giger](https://www.duneinfo.com/unseen/hr-giger).
+
+### 001: The Baron
+
+![The Baron](/assets/images/lordvlad.gif)
+
+"Vladimir Harkonnen, Siridar of Giedi Prime and house Harkonnen," is one of my favorite characters from the original *Dune* book. His grotesque form and malevolent nature are captured in this NFT, which started as a 3D scan of a Fat Buddha sculpture and was digitally sculpted and painted to resemble Harkonnen's menacing presence.
+
+**Get the NFT:** [Rarible Link](https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:397940:0x5d2d11406e2cd45bfcd44cb2051708b51a00923fm)
+
+---
+
+### Key Features:
+- **Generative Art**: Utilizes Blender's Geometry Nodes, Python API, Sverchok, and Animation Nodes to create procedurally generated digital assets.
+- **Sequential Release**: New NFTs are created and released only when the previous one is sold, ensuring exclusivity.
+- **Creative Influences**: Strong influence from sci-fi universes like *Dune*, blending traditional and digital artistry for unique NFT assets.
+- **Blockchain**: Released on platforms like Rarible, using Ethereum smart contracts to ensure ownership and exclusivity.

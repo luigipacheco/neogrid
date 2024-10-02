@@ -9,23 +9,17 @@ thumbnail: assets/images/thumbnails/laser.jpg
 categories: robotics
 ---
 
-![AR- Laser projector](/assets/images/laserprojector.jpg)    
+## Augmented Reality Laser Projector
 
-<center> Augumented Reality Laser Projector .</center>
+![AR- Laser Projector](/assets/images/laserprojector.jpg)
 
-The goal for this project is to be able to project 2D drawings on 3D surfaces with a moving laser.
-### Roles
+### Role: Developer / Researcher
 
-- Customized arduino sketch
-- Developed a custom library for projecting shapes inspired by processing
-- Developed serial scripts in python for sending projection data. 
-- Developed Pan and tilt calibration scripts (via ARUCO / OpenCV)
+- Customized Arduino sketches for laser control and interaction.
+- Built a Processing-inspired library for projecting custom shapes and animations.
+- Developed Python scripts for serial communication to transfer projection data.
+- Implemented pan and tilt calibration using ARUCO markers and OpenCV.
 
-This project was designed an IAAC  project as part for  the Master in Robotics and Advanced Construction it features:
+This project, created during the Master in Robotics and Advanced Construction at IAAC, aimed to project 2D drawings onto 3D surfaces using a moving laser, enhancing real-time construction interaction.
 
-- Processing style library for projecting shapes.
-- Custom animations.
-- Serial communication for transfering projection data. 
-- Projection of instructions and construction features on work area. 
-
-[Link to IAAC Blog](http://www.iaacblog.com/programs/ar-laser-projector/)
+Learn more: [IAAC Blog](http://www.iaacblog.com/programs/ar-laser-projector/)

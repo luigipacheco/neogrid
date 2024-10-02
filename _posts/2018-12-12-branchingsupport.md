@@ -9,17 +9,16 @@ thumbnail: assets/images/thumbnails/branch.png
 categories: design
 ---
 
-## TARGETED RANDOM BRANCH GROWTH ALGORITHM (IAAC student project)
+## Targeted Random Branch Growth Algorithm
 
+### Role: Developer / Researcher
 
-This project was designed for the first term in the Master in Robotics and Advanced Construction in IAAC, to explore an alternative to current support structures in 3D printing.
+- Developed a Python-based algorithm for Grasshopper, creating optimized 3D printing support structures.
+- Implemented a self-collision avoidance system for branching support generation.
+- Designed a dynamic branching system that adapts to complex geometries during printing.
 
-- Developed in Python  for Grasshopper
-- Three dimensional branching
-- Self-collition avoidance. 
+This project, developed as part of the Master in Robotics and Advanced Construction at IAAC, explores innovative solutions for 3D printing support structures. It enhances efficiency in additive manufacturing through computational design.
 
-![Growth Grasshopper algorithm](/assets/images/growth.png)    
+![Targeted Random Branch Growth Algorithm](/assets/images/growth.png)
 
-Learn more:
-
-(IAAC BLOG)[https://www.iaacblog.com/programs/targeted-random-branch-growth-algorithm/]
+Learn more: [IAAC Blog](https://www.iaacblog.com/programs/targeted-random-branch-growth-algorithm/)

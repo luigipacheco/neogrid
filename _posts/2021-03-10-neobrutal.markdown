@@ -7,13 +7,9 @@ caption: Brutalist Chessmen
 categories: digital design
 categories: design
 ---
-Chess set inspired by Brutalist Architecture 
+![Neobrutal Chess Set](/assets/images/nbc2.png)
 
-![Neobrutal Chessset](/assets/images/nbc2.png)
-
-### Neobrutal Chess: A Crowdfunded Design Statement
-
-The Neobrutal chess set features a simple yet striking design, making it an ideal decorative piece for a studio, living room, or office. It embodies the principles of Brutalism, focusing on materiality, texture, and a monolithic appearance. The creation of this unique chess set was made possible through the enthusiastic backing of supporters on Kickstarter.
+The Neobrutal Chess Set draws inspiration from Brutalist architecture, focusing on materiality, texture, and bold monolithic forms. This minimal yet impactful design serves as a functional chess set and a striking decorative piece for any studio, living room, or office. The set captures the essence of Brutalism by emphasizing raw materials and clean lines, making it both a design statement and a tribute to the architectural movement.
 
 <div class="sketchfab-embed-wrapper">
     <iframe title="NEOBRUTAL chess set" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/133e3c749063499ba171826be308ab1f/embed"></iframe>
@@ -26,6 +22,6 @@ The Neobrutal chess set features a simple yet striking design, making it an idea
 
 ### Kickstarter Success and Future Plans
 
-I'm grateful for the support received through [our Kickstarter campaign](https://www.kickstarter.com/projects/neobrutal/make-100-neobrutal-chessmen). This support not only made the production of the Neobrutal Chessmen possible but also opened doors for future creative projects. For more details about the campaign and our journey, you can visit the [Kickstarter page](https://www.kickstarter.com/projects/neobrutal/make-100-neobrutal-chessmen).
+The Neobrutal Chess Set was successfully funded through a [Kickstarter campaign](https://www.kickstarter.com/projects/neobrutal/make-100-neobrutal-chessmen), enabling its production and bringing this unique design to life. The campaign received enthusiastic support, and the chess set has since become a symbol of Brutalist-inspired creativity. This success has paved the way for future creative projects, expanding on the concepts of minimalism and material exploration.
 
 ---

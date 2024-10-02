@@ -9,23 +9,18 @@ thumbnail: assets/images/thumbnails/obstacle.png
 categories: robotics
 ---
 
-## Obstacle dection and Path correction for KUKA real time 3D printing (IAAC student project)
+## Obstacle Detection and Path Correction for KUKA Real-Time 3D Printing
 
 <iframe width="695" height="391" src="https://www.youtube.com/embed/aiaOFYp7r6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Roles
+### Role: Algorithm Designer / Programmer
 
-- Algorithm design
-- Programming 
+- Designed and implemented an algorithm for real-time obstacle detection during 3D printing with KUKA robotic arms.
+- Programmed feedback mechanisms in Grasshopper to correct the printing path in response to detected obstacles.
+- Enabled precise clay printing using adaptive layer-by-layer path correction.
 
-This project was designed for a workshop in IAAC as part for  the Master in Robotics and Advanced Construction in IAAC  it features:
+This project, part of the Master in Robotics and Advanced Construction at IAAC, improves the accuracy and efficiency of robotic 3D printing by adjusting the toolpath in real-time based on environmental feedback.
 
-- Layer by layer measurement and obstacle detection
-- Grasshopper feedback and path generation.
-- Clay printing
+![Obstacle Detection](/assets/images/obstacle.gif)
 
-![Obstacle detection](/assets/images/obstacle.gif)    
-
-Learn more:
-
-[IAAC BLOG](http://www.iaacblog.com/programs/path-correction-obstacle-detection-3d-printing/)
+Learn more: [IAAC Blog](http://www.iaacblog.com/programs/path-correction-obstacle-detection-3d-printing/)

@@ -7,55 +7,36 @@ thumbnail: assets/images/thumbnails/airchitecture.png
 caption: "Exploring the Intersection of AI and Architecture"
 categories: design
 ---
+## Architectural Prompt Generator
 
-In this post, I explore the intersection of artificial intelligence (AI) and architecture. By leveraging various AI tools, I aim to sketch and conceptualize innovative architectural designs, showcasing how AI can augment the creative process in architecture.
+### About the Project
 
-### 3D Printed Architecture Ideas
+The **Architectural Prompt Generator** is a creative tool designed to inspire architects and designers by generating unique architectural concepts. This project builds upon ideas discussed with **Marcelo Ertorteguy** and expands on his initial experiments showcased on Instagram. By randomizing architectural elements, this tool encourages creativity and helps spark innovative design ideas.
 
-The following images represent concepts for 3D printed structures, emphasizing unique forms and functional designs that are achievable through digital fabrication techniques.
+You can explore the generator on the official website: [Architectural Prompt Generator](https://www.architecturalprompt.com/).
 
-![3D Printed Architecture](/assets/images/airchitecture/3dparch.png)
-![3D Printed Architecture](/assets/images/airchitecture/3dparch2.png)
-![3D Printed Architecture](/assets/images/airchitecture/3dparch3.png)
-![3D Printed Architecture](/assets/images/airchitecture/3dparch4.png)
-![3D Printed Architecture](/assets/images/airchitecture/3dparch5.png)
+### Workflow
 
-### Babel Library Concept
+#### Step 1: Generate Your Prompt
 
-This section is dedicated to my conceptual designs for a futuristic library, inspired by the mythic Tower of Babel. These designs blend traditional architectural elements with avant-garde AI-driven aesthetics.
+Visit the **[Architectural Prompt Generator](https://www.architecturalprompt.com/)** to create a one-of-a-kind architectural prompt. The tool randomly combines various architectural elements, generating concepts that push the boundaries of conventional design.
 
-![Babel Library Concept](/assets/images/airchitecture/babel1.png)
-![Babel Library Concept](/assets/images/airchitecture/babel2.png)
-![Babel Library Concept](/assets/images/airchitecture/babel3.png)
-![Babel Library Concept](/assets/images/airchitecture/babel4.png)
+#### Step 2: Bring Your Prompt to Life
 
-### Concrete Houses
+Once you have your generated prompt, head over to the **ArchPrompter ChatGPT Bot**. Paste your prompt into the bot, and it will visualize the concept, providing an image representation that serves as a visual aid for your architectural idea.
 
-Here, I explore the use of concrete in residential architecture, focusing on sustainability and modern design principles. The AI-assisted designs push the boundaries of conventional concrete structures.
+#### Step 3: Further Exploration
 
-![Concrete House Design](/assets/images/airchitecture/conhouse1.png)
-![Concrete House Design](/assets/images/airchitecture/conhouse3.png)
-![Concrete House Design](/assets/images/airchitecture/conhouse4.png)
-![Concrete House Design](/assets/images/airchitecture/conhouse5.png)
+The generated image and prompt can be a starting point for further exploration. You can use other image-generation tools to expand on the concept or even begin drafting your architectural designs. Let your creativity flow as you explore new design possibilities.
 
-### Other Concepts
+#### Step 4: Share Your Creations
 
-This section includes a variety of other AI-generated architectural concepts, ranging from fantastical cityscapes to structures inspired by natural forms and ancient temples.
+We love to see the incredible ideas and designs that emerge from the **Architectural Prompt Generator**. If you're on Instagram, share your creations and tag **@codedvoxels** to inspire others in the architectural community. You can also check out the architectural prompt experiments I’ve shared on my [Instagram](https://www.instagram.com/codedvoxels/). Let’s collaborate and inspire each other!
 
-![Automata-Inspired Structure](/assets/images/airchitecture/automata1.png)
-![Automata-Inspired Structure](/assets/images/airchitecture/automata2.png)
-![Fantasy Cityscape](/assets/images/airchitecture/fancity1.png)
-![Fantasy Cityscape](/assets/images/airchitecture/fancity2.png)
-![Fantasy Cityscape](/assets/images/airchitecture/fancity3.png)
-![Self-Replicating Structure](/assets/images/airchitecture/selfreplicating1.png)
-![Self-Replicating Structure](/assets/images/airchitecture/selfreplicating2.png)
-![Self-Replicating Structure](/assets/images/airchitecture/selfreplicating3.png)
-![Temple Inspired Design](/assets/images/airchitecture/temple1.png)
-![Temple Inspired Design](/assets/images/airchitecture/temple2.png)
-![Temple Inspired Design](/assets/images/airchitecture/temple3.png)
+### Contributing
 
-[Follow my instagram for more AI experiments](https://www.instagram.com/codedvoxels/)
+Your contributions are welcome! If you have suggestions to improve the tool or want to participate in its development, feel free to create a pull request or open an issue. We value feedback and community-driven enhancements.
 
+### License
 
-
-
+This project is licensed under the **MIT License**. For more details, see the LICENSE file.
