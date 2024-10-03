@@ -4,7 +4,7 @@ title: "AI-chitecture"
 date: 2022-09-01 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
 thumbnail: assets/images/thumbnails/airchitecture.png
-caption: "Exploring the Intersection of AI and Architecture"
+caption: "AI-chitecture"
 categories: design
 ---
 ## Architectural Prompt Generator
