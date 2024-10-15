@@ -7,6 +7,7 @@ thumbnail: assets/images/thumbnails/above.png
 caption: "Above the ground"
 categories: design
 ---
+
 ## Above the Ground by Joyce Billet
 
 ### About the Project

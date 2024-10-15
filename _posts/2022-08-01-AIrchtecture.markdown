@@ -2,7 +2,6 @@
 layout: post
 title: "AI-chitecture"
 date: 2022-09-01 18:54:32 -0500
-image: assets/images/fulls/cd.jpg
 thumbnail: assets/images/thumbnails/airchitecture.png
 caption: "AI-chitecture"
 categories: design
