@@ -5,7 +5,7 @@ date: 2022-12-01 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
 thumbnail: assets/images/thumbnails/above.png
 caption: "Above the ground"
-categories: design
+categories: digifab
 ---
 
 ## Above the Ground by Joyce Billet
