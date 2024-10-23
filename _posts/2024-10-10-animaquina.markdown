@@ -9,7 +9,7 @@ categories: digifab
 ---
 **Animaquina** is a robot Integrated Development Environment (IDE) designed to control and simulate robots directly within **Blender**. By leveraging Blender’s powerful 3D capabilities, Animaquina provides a versatile and user-friendly platform for robot programming, visualization, and real-time manipulation. The IDE bridges the gap between digital simulations and physical robotic execution, making it a valuable tool for designers, engineers, and educators interested in robotics.
 
-![Animaquina Interface](assets/images/animaquina/animaquina-interface.png)
+![Animaquina Interface](/assets/images/animaquina/animaquina-interface.png)
 
 ## Features
 
@@ -27,7 +27,7 @@ Animaquina offers a range of powerful features, allowing users to intuitively ma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1i2mHIK08o?si=LCQzuXLILKbIRFf-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-![Animaquina Interface](assets/images/animaquina/animaquina-real-time-robotics.gif)
+![Animaquina Interface](/assets/images/animaquina/animaquina-real-time-robotics.gif)
 ## Supported Robot Versions
 
 Animaquina supports different robot models, each optimized for specific platforms:
