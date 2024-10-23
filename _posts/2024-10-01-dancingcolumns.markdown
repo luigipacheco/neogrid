@@ -3,6 +3,7 @@ layout: post
 title:  "Dancing Columns"
 date: 2024-10-01 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
+permalink: /3dprinted-columns/
 thumbnail: assets/images/thumbnails/dancing.png
 caption: Dancing Columns
 categories: digifab

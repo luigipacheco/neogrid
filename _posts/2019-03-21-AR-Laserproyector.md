@@ -4,6 +4,7 @@ title:  "AR Laser Projector"
 date:   2018-04-06
 caption: AR Laser Projector
 project: true
+permalink: /laserprojector/
 tags: [IAAC , physical computing ]
 thumbnail: assets/images/thumbnails/laser.jpg
 categories: robotics

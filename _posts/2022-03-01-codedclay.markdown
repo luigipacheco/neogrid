@@ -3,6 +3,7 @@ layout: post
 title: "Coded Clay: The Art of Parametric Clay Cups"
 date: 2022-03-01 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
+permalink: /coded-clay/
 thumbnail: assets/images/thumbnails/cclay.png
 caption: "Mathematically Driven Clay Design"
 categories: digifab

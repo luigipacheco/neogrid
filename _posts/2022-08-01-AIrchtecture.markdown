@@ -3,6 +3,7 @@ layout: post
 title: "AI-chitecture"
 date: 2022-09-01 18:54:32 -0500
 thumbnail: assets/images/thumbnails/airchitecture.png
+permalink: /AI-architecture/
 caption: "AI-chitecture"
 categories: design
 ---

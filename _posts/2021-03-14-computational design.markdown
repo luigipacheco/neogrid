@@ -3,6 +3,7 @@ layout: post
 title: "Computational Design"
 date: 2021-06-06 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
+permalink: /computational-design-tutorials/
 thumbnail: assets/images/thumbnails/lorenz3.jpg
 caption: "Diving Into the World of Computational Design"
 categories: design

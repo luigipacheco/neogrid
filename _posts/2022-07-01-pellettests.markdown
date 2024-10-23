@@ -3,6 +3,7 @@ layout: post
 title:  "Robot Fabrication with 3DP Plastic"
 date:   2022-07-01 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
+permalink: /robotic-pellet-extruder/
 thumbnail: assets/images/thumbnails/pellet.png
 caption: Robotic Fabrication
 categories: robotics

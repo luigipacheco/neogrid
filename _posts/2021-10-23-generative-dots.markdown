@@ -4,6 +4,7 @@ title: "Generative Dots"
 date: 2021-10-21 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
 thumbnail: assets/images/thumbnails/gendots.png
+permalink: /generative-drawing/
 caption: "Exploring Abstract Art with Computational Design"
 categories: design
 ---

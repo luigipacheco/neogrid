@@ -4,6 +4,7 @@ title:  "Obstacle detection and path correction for real time 3D printing"
 date:   2018-03-18
 caption: Collision detection
 project: true
+permalink: /collision-detection/
 tags: [IAAC , 3D printing ]
 thumbnail: assets/images/thumbnails/obstacle.png
 categories: robotics

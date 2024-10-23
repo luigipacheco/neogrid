@@ -3,6 +3,7 @@ layout: post
 title: "Above the ground"
 date: 2022-12-01 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
+permalink: /3dprinted-benches/
 thumbnail: assets/images/thumbnails/above.png
 caption: "Above the ground"
 categories: digifab

@@ -3,6 +3,7 @@ layout: post
 title: Neobrutal Chessmen
 image: assets/images/fulls/1.jpg
 thumbnail: assets/images/thumbnails/chessthumb.png
+permalink: /neobrutal-chesset/
 caption: Brutalist Chessmen
 categories: digital design
 categories: design

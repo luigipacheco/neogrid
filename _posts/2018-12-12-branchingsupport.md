@@ -3,6 +3,7 @@ layout: post
 title:  "Generative Branching"
 date:   2017-12-12
 caption: Generative Branching
+permalink: /generativesupport/
 project: true
 tags: [IAAC , Python, computational design ]
 thumbnail: assets/images/thumbnails/branch.png

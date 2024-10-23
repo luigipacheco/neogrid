@@ -3,6 +3,7 @@ layout: post
 title: "Espresso Clay: 3D Printed Cups"
 date: 2021-10-21 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
+permalink: /3dprinted-expresso-cups/
 thumbnail: assets/images/thumbnails/3dcup.png
 caption: "Espresso 3DP Clay"
 categories: digifab
