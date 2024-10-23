@@ -5,7 +5,7 @@ date: 2024-10-10 18:54:32 -0500
 thumbnail: assets/images/thumbnails/animaquina.png
 permalink: /animaquina/
 caption: Dancing Columns
-categories: digifab
+categories: robotics
 ---
 **Animaquina** is a robot Integrated Development Environment (IDE) designed to control and simulate robots directly within **Blender**. By leveraging Blender’s powerful 3D capabilities, Animaquina provides a versatile and user-friendly platform for robot programming, visualization, and real-time manipulation. The IDE bridges the gap between digital simulations and physical robotic execution, making it a valuable tool for designers, engineers, and educators interested in robotics.
 
