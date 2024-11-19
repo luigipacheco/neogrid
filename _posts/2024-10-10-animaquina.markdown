@@ -53,5 +53,5 @@ Animaquina’s versatility extends to a range of applications across industries:
 5. **Prototyping**: 
     - Quickly test robotic motion in the real world, with direct control from Blender for faster iteration cycles.
 
-    
+
 {% include image-gallery.html folder="/assets/images/animaquina/gallery" %}
