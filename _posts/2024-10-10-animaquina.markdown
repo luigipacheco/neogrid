@@ -52,3 +52,6 @@ Animaquina’s versatility extends to a range of applications across industries:
     - Teach concepts of robotics within an integrated and easy-to-use environment, making learning more interactive.
 5. **Prototyping**: 
     - Quickly test robotic motion in the real world, with direct control from Blender for faster iteration cycles.
+
+    
+{% include image-gallery.html folder="/assets/images/animaquina/gallery" %}
