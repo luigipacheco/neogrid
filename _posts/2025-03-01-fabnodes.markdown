@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Fabnodes"
+date: 2025-03-01 18:54:32 -0500
+thumbnail: assets/images/thumbnails/fabnodes.png
+permalink: /fabnodes/
+caption: Fabnodes
+categories: digifab
+---
+
+## Fabnodes: Digital Fabrication in Blender
+
+**Fabnodes** is a Blender add-on that allows exporting **G-code** directly from Blender using **Geometry Nodes**. It provides a way to create toolpaths for **CNC machining, 3D printing, laser cutting, and pen plotting** without requiring additional CAM software.
+
+### What is Fabnodes?
+Fabnodes enables **parametric toolpath creation** using **Geometry Nodes**. Users can generate and modify toolpaths dynamically within Blender and export them for different fabrication machines.
+
+### Key Features:
+- **G-code Export**: Generate toolpaths for CNC machines, 3D printers, laser cutters, and plotters.
+- **Geometry Nodes Integration**: Use procedural modeling for toolpath creation.
+- **Flexible Workflows**: Adjust toolpaths based on fabrication needs.
+- **Customizable**: Modify and optimize toolpaths within Blender.
+
+### Fabnodes Video Tutorials
+
+
+#### ▶️ First Video: Install & Basic Usage
+[![Fabnodes Video](https://img.youtube.com/vi/3E6BMshv2ac/maxresdefault.jpg)](https://youtu.be/3E6BMshv2ac)
+
+🔗 **Watch now:** [https://youtu.be/3E6BMshv2ac](https://youtu.be/3E6BMshv2ac)
+
+More video links will be added here as they are released.
+
+### Getting Started with Fabnodes
+Fabnodes provides a workflow for **pen plotting, CNC milling, and 3D printing** using **Blender’s Geometry Nodes**. It helps integrate computational design with fabrication by enabling direct **G-code generation** inside Blender.
+
+
+[DOWNLOAD FABNODES](https://extensions.blender.org/add-ons/fabnodes/)
+
+---
+
+More updates coming soon.
