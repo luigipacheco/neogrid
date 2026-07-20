@@ -12,7 +12,7 @@ categories: robotics
 
 ## Obstacle Detection and Path Correction for KUKA Real-Time 3D Printing
 
-<iframe width="695" height="391" src="https://www.youtube.com/embed/aiaOFYp7r6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video.html youtube="aiaOFYp7r6w" title="Obstacle detection demo" %}
 
 ### Role: Algorithm Designer / Programmer
 

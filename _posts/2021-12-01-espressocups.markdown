@@ -7,7 +7,10 @@ permalink: /3dprinted-expresso-cups/
 thumbnail: assets/images/thumbnails/3dcup.png
 caption: "Espresso 3DP Clay"
 categories: digifab
+archived: true
 ---
+
+> This project is now part of [Coded Clay](/coded-clay/).
 
 ## 3D Printed Espresso Cups: A Fusion of Craft and Technology
 

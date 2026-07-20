@@ -6,6 +6,7 @@ thumbnail: assets/images/thumbnails/airchitecture.png
 permalink: /AI-architecture/
 caption: "AI-chitecture"
 categories: design
+archived: true
 ---
 ## Architectural Prompt Generator
 

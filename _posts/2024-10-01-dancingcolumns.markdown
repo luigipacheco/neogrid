@@ -12,10 +12,10 @@ categories: digifab
 
 ### About the Project
 
-This gallery showcases an exploration of robotic 3D printed objects generated from mathematical equations, created by [**Joseph Choma**](https://designtopology.com/) and **Luis Pacheco**, with fabrication support from the RDF Lab at FIU. The featured objects are derived from a family of morphed toruses, where altering the parameters of the equations results in captivating and unexpected geometric features. These forms emerge from a complex interplay of sine and cosine functions, with variables manipulated to produce intricate, undulating surfaces. This collaboration bridges the gap between digital design and physical manifestation, highlighting the artistic potential of mathematical equations to create dynamic, organic forms.
+**Dancing Columns** is a series of robotically 3D printed objects generated from mathematical equations, created by [**Joseph Choma**](https://designtopology.com/) and myself, with fabrication support from the RDF Lab at FIU. Every column in the series is a morphed torus: the forms come from sine and cosine functions, and changing the parameters of the equations produces unexpected geometric features — intricate, undulating surfaces that we then print at full scale with a robot.
 
-A deeper study of these geometric transformations can be found in "Morphing: A Guide to Mathematical Transformations for Architects and Designers" by Joseph Choma, which delves into the processes and theories behind these mathematical explorations.
+The mathematics behind the series is covered in depth in Joseph's book *Morphing: A Guide to Mathematical Transformations for Architects and Designers*.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1006429024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dancing Columns Exhibition"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{% include video.html vimeo="1006429024" title="Dancing Columns Exhibition" %}
 
 {% include image-gallery.html folder="/assets/images/dancingcolumns" %}

@@ -16,6 +16,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-seo-tag", "~> 2.8"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -30,3 +31,10 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "webrick", "~> 1.7"
+
+# Stdlib gems no longer shipped with Ruby 3.4+ but still required by Jekyll 4.2
+gem "logger"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "ostruct"

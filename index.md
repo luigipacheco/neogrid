@@ -2,25 +2,19 @@
 layout: default
 ---
 <section>
-<div class="loading">
-    Loading...
-</div>
-<div class="filter-buttons">
-  <button class="filter-button" data-category="all">All</button>
-  <button class="filter-button" data-category="digifab">Fabrication</button>
-  <button class="filter-button" data-category="robotics">Robotics</button>
-  <button class="filter-button" data-category="design">Design</button>
-</div>
-<div class="grid grid-1">{% for post in site.posts %}
-      <a class="item project" data-category="{{ post.categories | join: ' ' }}" href="{{ site.url }}{{ post.url }}">
-        <div class="item-content">
-          <div class="container">
-              <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="image" style="width:100%">
-              <div class="middlev">
-              <div class="text vertical">{{ post.caption }}</div>
-            </div>
-          </div>
-        </div>
-      </a>{% endfor %}  
-    </div>
-    </section>
+  <div class="filter-buttons" role="group" aria-label="Filter projects">
+    <button class="filter-button is-active" data-category="all">All</button>
+    <button class="filter-button" data-category="digifab">Fabrication</button>
+    <button class="filter-button" data-category="robotics">Robotics</button>
+    <button class="filter-button" data-category="design">Design</button>
+  </div>
+  <div class="project-grid">
+    {%- assign visible_posts = site.posts | where_exp: "p", "p.archived != true" -%}
+    {%- for post in visible_posts -%}
+    <a class="project-card" data-category="{{ post.categories | join: ' ' }}" href="{{ post.url | relative_url }}">
+      <img src="{{ post.thumbnail | prepend: '/' | relative_url }}" alt="{{ post.title }}" loading="lazy">
+      <span class="project-caption">{{ post.caption | default: post.title }}</span>
+    </a>
+    {%- endfor -%}
+  </div>
+</section>

@@ -1,12 +1,33 @@
 ---
-layout: page
+layout: default
 ---
 
-<h2 class="post">{{ page.title }}</h2>
-<time
+<h1 class="post-title">{{ page.title }}</h1>
+<time class="post-meta"
   >{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif
   %}{% if page.meta %} • {{ page.meta }}{% endif %}</time
 >
 <div class="post">
 {{ content }}
 </div>
+{% assign visible_posts = site.posts | where_exp: "p", "p.archived != true" %}
+{% for p in visible_posts %}
+  {% if p.url == page.url %}
+    {% if forloop.index0 > 0 %}
+      {% assign newer_i = forloop.index0 | minus: 1 %}
+      {% assign newer_post = visible_posts[newer_i] %}
+    {% endif %}
+    {% assign older_i = forloop.index0 | plus: 1 %}
+    {% assign older_post = visible_posts[older_i] %}
+  {% endif %}
+{% endfor %}
+{% if older_post or newer_post %}
+<nav class="post-nav" aria-label="Project navigation">
+  {% if older_post %}
+  <a class="post-nav-link" href="{{ older_post.url | relative_url }}">&larr; {{ older_post.title }}</a>
+  {% endif %}
+  {% if newer_post %}
+  <a class="post-nav-link post-nav-next" href="{{ newer_post.url | relative_url }}">{{ newer_post.title }} &rarr;</a>
+  {% endif %}
+</nav>
+{% endif %}

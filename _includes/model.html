@@ -1,0 +1,24 @@
+{% comment %}
+  3D model viewer (.glb / .gltf) using Google's <model-viewer> web component.
+  Usage:
+    {% include model.html src="/assets/models/chess.glb" %}
+    {% include model.html src="/assets/models/chess.glb" poster="/assets/images/chess.png" height="500px" ar=true %}
+  Params:
+    src    — path to .glb/.gltf file (required)
+    poster — image shown while the model loads
+    height — viewer height (default 420px)
+    alt    — accessible description (default "3D model")
+    ar     — enable AR button on supported devices (default off)
+{% endcomment %}
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
+<model-viewer
+  class="sketch-frame"
+  style="height: {{ include.height | default: '420px' }};"
+  src="{{ include.src | relative_url }}"
+  {% if include.poster %}poster="{{ include.poster | relative_url }}"{% endif %}
+  alt="{{ include.alt | default: '3D model' }}"
+  camera-controls
+  touch-action="pan-y"
+  shadow-intensity="1"
+  {% if include.ar %}ar{% endif %}>
+</model-viewer>

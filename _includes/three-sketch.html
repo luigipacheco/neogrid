@@ -1,0 +1,27 @@
+{% comment %}
+  three.js sketch embed. Sets up an import map (once per page) and a container
+  div, then loads your sketch module from /assets/js/sketches/.
+  Usage:
+    {% include three-sketch.html src="/assets/js/sketches/demo-cube.js" %}
+    {% include three-sketch.html src="/assets/js/sketches/demo-cube.js" id="cube" height="500px" %}
+  Params:
+    src    — path to an ES module that renders into its container (required)
+    id     — container id, default "three-sketch" (set unique ids if a page has several sketches)
+    height — frame height (default 420px)
+  Your sketch module grabs its container by id:
+    const container = document.getElementById('three-sketch');
+  See assets/js/sketches/demo-cube.js for a working example.
+{% endcomment %}
+<div class="sketch-frame" id="{{ include.id | default: 'three-sketch' }}" style="height: {{ include.height | default: '420px' }};"></div>
+{% capture three_importmap_count %}{% increment three_importmap %}{% endcapture %}
+{% if three_importmap_count == "0" %}
+<script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+    }
+  }
+</script>
+{% endif %}
+<script type="module" src="{{ include.src | relative_url }}"></script>

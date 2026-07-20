@@ -1,0 +1,17 @@
+{% comment %}
+  Plain 2D canvas sketch embed (vanilla canvas, p5-style generative work, etc.).
+  Usage:
+    {% include canvas-sketch.html src="/assets/js/sketches/demo-dots.js" %}
+    {% include canvas-sketch.html src="/assets/js/sketches/demo-dots.js" id="dots" height="500px" %}
+  Params:
+    src    — path to a JS file that draws on the canvas (required)
+    id     — canvas id, default "canvas-sketch" (unique per sketch on a page)
+    height — frame height (default 420px)
+  Your script grabs the canvas by id:
+    const canvas = document.getElementById('canvas-sketch');
+  See assets/js/sketches/demo-dots.js for a working example.
+{% endcomment %}
+<div class="sketch-frame" style="height: {{ include.height | default: '420px' }};">
+  <canvas id="{{ include.id | default: 'canvas-sketch' }}"></canvas>
+</div>
+<script src="{{ include.src | relative_url }}" data-canvas="{{ include.id | default: 'canvas-sketch' }}" defer></script>

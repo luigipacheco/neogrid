@@ -8,6 +8,7 @@ permalink: /laserprojector/
 tags: [IAAC , physical computing ]
 thumbnail: assets/images/thumbnails/laser.jpg
 categories: robotics
+archived: true
 ---
 
 ## Augmented Reality Laser Projector

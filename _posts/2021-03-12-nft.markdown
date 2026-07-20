@@ -7,6 +7,7 @@ permalink: /nft/
 thumbnail: assets/images/thumbnails/w001thumb.png
 caption: Generative Mines
 categories: design
+archived: true
 ---
 
 ## NFT Experiments: 8x8x8 Animated Worlds and Generative Art

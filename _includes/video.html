@@ -1,0 +1,29 @@
+{% comment %}
+  Responsive embed (YouTube, Vimeo, or any iframe src).
+  Usage:
+    {% include video.html youtube="46nEKD2Wn9c" %}
+    {% include video.html vimeo="1006429024" %}
+    {% include video.html src="https://sketchfab.com/models/xxx/embed" aspect="4/3" %}
+  Params:
+    youtube — YouTube video id
+    vimeo   — Vimeo video id
+    src     — any embed URL (used when youtube/vimeo not given)
+    aspect  — CSS aspect-ratio, default 16/9
+    title   — iframe title for accessibility (default "Embedded video")
+{% endcomment %}
+{% if include.youtube %}
+  {% assign embed_src = include.youtube | prepend: "https://www.youtube-nocookie.com/embed/" %}
+{% elsif include.vimeo %}
+  {% assign embed_src = include.vimeo | prepend: "https://player.vimeo.com/video/" %}
+{% else %}
+  {% assign embed_src = include.src %}
+{% endif %}
+<div class="embed" style="aspect-ratio: {{ include.aspect | default: '16/9' }};">
+  <iframe
+    src="{{ embed_src }}"
+    title="{{ include.title | default: 'Embedded video' }}"
+    loading="lazy"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen; xr-spatial-tracking"
+    allowfullscreen></iframe>
+</div>

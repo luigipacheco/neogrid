@@ -7,13 +7,15 @@ permalink: /animaquina/
 caption: Animaquina
 categories: robotics
 ---
-**Animaquina** is a robot Integrated Development Environment (IDE) designed to control and simulate robots directly within **Blender**. By leveraging Blender’s powerful 3D capabilities, Animaquina provides a versatile and user-friendly platform for robot programming, visualization, and real-time manipulation. The IDE bridges the gap between digital simulations and physical robotic execution, making it a valuable tool for designers, engineers, and educators interested in robotics.
+{% include video.html youtube="fK9M8f3fa6o" title="Animaquina overview" %}
+
+**Animaquina** is a robot IDE that controls and simulates robotic arms directly inside **Blender**. Instead of learning a vendor's proprietary software, you program, visualize, and move real robots from Blender's 3D viewport — the same environment designers already model in. I built it to close the gap between digital simulation and physical execution, for designers, engineers, and students working with robots.
 
 ![Animaquina Interface](/assets/images/animaquina/animaquina-interface.png)
 
 ## Features
 
-Animaquina offers a range of powerful features, allowing users to intuitively manage robotic simulations and operations:
+What it can do today:
 
 - **IP-based Robot Connection**: Connect and control robots over an IP network.
 - **Real-time Manipulation**: Move and adjust robots directly within Blender’s 3D viewport.
@@ -25,7 +27,7 @@ Animaquina offers a range of powerful features, allowing users to intuitively ma
 - **Info Panel**: Display the current joint rotation and TCP (Tool Center Point) position.
 - **VR and XR Integration**: Integrates with Freebird XR, allowing for immersive interaction in virtual or extended reality environments.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S1i2mHIK08o?si=LCQzuXLILKbIRFf-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+{% include video.html youtube="S1i2mHIK08o" title="Animaquina demo" %}
 
 ![Animaquina Interface](/assets/images/animaquina/animaquina-real-time-robotics.gif)
 ## Supported Robot Versions
@@ -40,7 +42,7 @@ For support or custom integrations, feel free to reach out at: `luigi(at)neobrut
 
 ## Applications
 
-Animaquina’s versatility extends to a range of applications across industries:
+Where I've seen it used, and where I want to take it:
 
 1. **Hybrid Manufacturing**: 
     - Develop, manage, and run robotic toolpaths for **3D printing**, **CNC milling**, and more, directly from Blender.

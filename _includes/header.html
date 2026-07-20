@@ -1,69 +1,33 @@
-<aside>
-	<header>
-        <div class="grid grid-2">
-          <a class="item info logo" href="{{ '' | prepend: site.baseurl| prepend: site.url }}">
-            <div class="item-content">
-              <!-- <img src="assets/images/logo.png" alt="neobrutal" class="image" style="width:100%"> -->
-              Luis Pacheco
-            </div>
-          </a>
-          <a class="item info small" href="{{ '/about' | prepend: site.baseurl| prepend: site.url }}" target="_blank">
-            <div class="item-content">
-              <i class="fas fa-info"></i>
-            </div>
-          </a>
-          {% if site.portfolio %}
-          <a class="item info small" href="{{ '/assets/files/cv.pdf' | prepend: site.baseurl| prepend: site.url }}" target="_blank">
-            <div class="item-content">
-              <i class="fas fa-file"></i>
-            </div>
-          </a>
-          {% endif %}
-          {% if site.instagram %}
-          <a class="item info small" target="_blank" href="http://instagram.com/{{ site.instagram }}">
-            <div class="item-content">
-              <i class="fab fa-instagram-square"></i>
-            </div>
-          </a>
-          {% endif %}
-          {% if site.linkedin %}
-          <a class="item info small" target="_blank" href="http://linkedin.com/in/{{ site.linkedin }}">
-            <div class="item-content">
-              <i class="fab fa-linkedin"></i>
-            </div>  
-          </a>
-          {% endif %}
-          {% if site.youtube %}
-          <a class="item info small" target="_blank" href="https://youtube.com/user/{{ site.youtube }}">
-            <div class="item-content">
-              <i class="fab fa-youtube-square"></i>
-            </div>
-          </a>
-          {% endif %}
-          {% if site.github-url %}
-          <a class="item info small" target="_blank" href="http://github.com/{{ site.github-url }}">
-            <div class="item-content">
-              <i class="fab fa-github-square"></i>
-            </div>
-          </a>
-          {% endif %}
-          {% if site.twitter %}
-          <a class="item info small"target="_blank"  href="http://twitter.com/{{ site.twitter }}">
-            <div class="item-content">
-              <i class="fab fa-twitter-square"></i></i>
-            </div>
-          </a>
-          {% endif %}
-          {% if site.email %}
-          <a class="item info small"target="_blank"  href="mailto:{{ site.email }}">
-            <div class="item-content">
-              <i class="fas fa-envelope-square"></i></i>
-            </div>
-          </a>
-          {% endif %}
-        </div>
-        <!-- <div class="grid subtitle">
-          Computational Design // Digital Fabrication // Robotics
-        </div> -->
-      </header>
+<header class="site-header">
+  <a class="brand" href="{{ '/' | relative_url }}">Luis Pacheco</a>
+  <nav class="site-nav" aria-label="Site and social links">
+    <a class="chip" href="{{ '/about' | relative_url }}" title="About" aria-label="About">{% include icons/info-lg.svg %}</a>
+    {% if site.portfolio %}
+    <a class="chip" href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank" rel="noopener" title="CV" aria-label="CV (PDF)">{% include icons/file-earmark-text.svg %}</a>
+    {% endif %}
+    {% if site.instagram %}
+    <a class="chip" href="https://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener" title="Instagram" aria-label="Instagram">{% include icons/instagram.svg %}</a>
+    {% endif %}
+    {% if site.linkedin %}
+    <a class="chip" href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn">{% include icons/linkedin.svg %}</a>
+    {% endif %}
+    {% if site.youtube %}
+    <a class="chip" href="https://youtube.com/user/{{ site.youtube }}" target="_blank" rel="noopener" title="YouTube" aria-label="YouTube">{% include icons/youtube.svg %}</a>
+    {% endif %}
+    {% if site.github-url %}
+    <a class="chip" href="https://github.com/{{ site.github-url }}" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">{% include icons/github.svg %}</a>
+    {% endif %}
+    {% if site.orcid %}
+    <a class="chip" href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener" title="ORCID" aria-label="ORCID">{% include icons/orcid.svg %}</a>
+    {% endif %}
+    {% if site.researchgate %}
+    <a class="chip" href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank" rel="noopener" title="ResearchGate" aria-label="ResearchGate">{% include icons/researchgate.svg %}</a>
+    {% endif %}
+    {% if site.scholar %}
+    <a class="chip" href="https://scholar.google.com/citations?user={{ site.scholar }}&hl=en" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar">{% include icons/googlescholar.svg %}</a>
+    {% endif %}
+    {% if site.email %}
+    <a class="chip" href="mailto:{{ site.email }}" title="Email" aria-label="Email">{% include icons/envelope.svg %}</a>
+    {% endif %}
+  </nav>
 </header>

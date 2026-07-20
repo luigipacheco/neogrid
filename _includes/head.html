@@ -1,27 +1,12 @@
 <head>
     <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl| prepend: site.url }}">
-    <link
-      rel="canonical"
-      href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Muli:400,300"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link rel="stylesheet" href="https://unpkg.com/neobrutalism.css">
-    <script src="https://kit.fontawesome.com/608a290f15.js" crossorigin="anonymous"></script>
-    
 
-  </head>
+    {% seo %}
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&family=Ubuntu+Mono&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>

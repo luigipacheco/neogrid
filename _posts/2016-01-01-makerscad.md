@@ -7,6 +7,7 @@ permalink: /makerscad/
 project: true
 thumbnail: assets/images/thumbnails/makerscad.png
 categories: design
+archived: true
 ---
 ## Introduction
 
